@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0d3d4;
+}
+section {
+  padding-top: 6rem;
+}
+a {
+  color: inherit;
+}
+.medsos {
+  padding-right: 52px;
+}
+.medsos ul li {
+  color: black;
+  display: inline-block;
+  font-size: 25px;
+  margin: 0 35px;
+  opacity: 0.9;
+}
